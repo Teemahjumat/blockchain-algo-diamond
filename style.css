@@ -136,7 +136,8 @@ header{
 }
 
 .box-image{
-    background-image: url(/Algo-diamond/banner.svg);
+    /* background-image: url(./images\ /banner.svg); */
+    background-image: url(./IMAGES/banner.svg);    
     height: 500px;
     width: 500px;
     background-repeat: no-repeat;
@@ -275,7 +276,7 @@ text-decoration: none;
 
 
 .box-image{
-    background-image: url(/Algo-diamond/banner.svg);
+    background-image: url(./IMAGES/banner.svg);
     height: 500px;
     width: 500px;
     background-repeat: no-repeat;
