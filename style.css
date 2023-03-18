@@ -318,12 +318,12 @@ text-decoration: none;
     }
     
     .paper > img {
-        width: 350px;
+        width: 21.9rem;
         height: 350px;
         margin-bottom: 20px;
     }
     .paper1 > img {
-        width: 350px;
+        width: 21.9rem;
         height: 300px;
         margin-bottom: 30px;
     }
@@ -343,10 +343,17 @@ text-decoration: none;
     }
     .paper > img,
     .paper1 > img{
+        width: 320px;
         margin-bottom: 30px;
     }
+    .box-image{
+        width: 320px;
+    }
+    footer{
+        height: auto;
+    }
 }
-@media screen and (max-width:280px){
+@media screen and (max-width:330px){
 
     body{
         width: 100%;
